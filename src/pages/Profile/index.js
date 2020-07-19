@@ -37,7 +37,7 @@ export default function Profile() {
     }
 
     useEffect(() => {
-        api.get('profile', {
+        api.get('casos', {
             headers: {
                 Authorization: ongId,
             }
