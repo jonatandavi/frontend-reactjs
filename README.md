@@ -21,10 +21,10 @@
 </p>
 
 <div align="center">
-    <img src="./readme/1.png" width="400" height="200" /> 
-    <img src="./readme/2.png" width="400" height="200" /> 
-    <img src="./readme/3.png" width="400" height="200" />
-    <img src="./readme/4.png" width="400" height="200" />
+    <img src="./readme/1.PNG" width="400" height="200" /> 
+    <img src="./readme/2.PNG" width="400" height="200" /> 
+    <img src="./readme/3.PNG" width="400" height="200" />
+    <img src="./readme/4.PNG" width="400" height="200" />
 </div>
 
 ---
