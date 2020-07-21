@@ -29,9 +29,11 @@ export default function Novocaso() {
         try {
             await api.post('casos', data, {
                 headers: {
-                    Authorization: ongId,
+                    Authorization: localStorage.getItem('ongId'),
+                    'x-access-token': localStorage.getItem('token')
                 }
             })
+            console.log(data)
             history.push('/profile');
         } catch (err) {
             alert("erro");

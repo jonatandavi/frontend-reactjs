@@ -21,6 +21,7 @@ export default function Logon() {
 
             localStorage.setItem('ongId', id);
             localStorage.setItem('ongName', response.data.name);
+            localStorage.setItem('token', response.data.token)
 
             history.push('/profile');
         } catch(err){

@@ -21,6 +21,7 @@ export default function Profile() {
             await api.delete(`casos/${id}`, {
                 headers: {
                     Authorization: ongId,
+                    'x-access-token': localStorage.getItem('token')
                 }
             });
 
@@ -40,9 +41,11 @@ export default function Profile() {
         api.get('casos', {
             headers: {
                 Authorization: ongId,
+                'x-access-token': localStorage.getItem('token')
             }
         }).then(response => {
             setCasos(response.data);
+            console.log(casos)
         })
     }, [ongId]);
 
