@@ -14,10 +14,6 @@
   <img alt="Contributors" src="https://img.shields.io/github/contributors/jonatandavi/frontend-reactjs">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/lucasmontano">
-    <img alt="Made by Jonatan Davi" src="https://img.shields.io/badge/readme%20template-Lucas%20Montano-brightgreen">
-  </a>
 </p>
 
 <div align="center">
