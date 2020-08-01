@@ -12,8 +12,6 @@
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jonatandavi/frontend-reactjs">
 
   <img alt="Contributors" src="https://img.shields.io/github/contributors/jonatandavi/frontend-reactjs">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
 
 <div align="center">
@@ -32,7 +30,6 @@
   <li><a href="#-features">Features</a></li>
   <li><a href="#-contributing">Contributing</a></li>
   <li><a href="#-support">Support</a></li>
-  <li><a href="#-license">License</a></li>
 </ul>
 
 ---
@@ -112,14 +109,6 @@ After your Pull Request is merged, can you delete your feature branch.
 Contact me if you need more informations about the project!
 
 - Linkedin at [Jonatan Davi Almeida](https://www.linkedin.com/in/jônatan-davi-reis-de-almeida-3b6346117/)
-
----
-
-## 📝 License
-
-<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
